@@ -6,5 +6,4 @@ package CodeSprint;
 public class Separate_the_Numbers {
 
 
-
 }
