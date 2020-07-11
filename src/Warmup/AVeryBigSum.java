@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Created by Suwadith on 2/17/2017.
  */
-public class A_Very_Big_Sum {
+public class AVeryBigSum {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

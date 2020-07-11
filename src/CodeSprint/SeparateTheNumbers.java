@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Created by Suwadith on 2/18/2017.
  */
-public class Separate_the_Numbers {
+public class SeparateTheNumbers {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

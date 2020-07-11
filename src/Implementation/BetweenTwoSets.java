@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * Created by Suwadith on 2/14/2017.
  */
-public class Between_Two_Sets {
+public class BetweenTwoSets {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

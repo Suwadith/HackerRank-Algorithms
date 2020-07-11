@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * Created by Suwadith on 2/12/2017.
  */
-public class Mini_Max_Sum {
+public class MiniMaxSum {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Created by Suwadith on 2/17/2017.
  */
-public class Diagonal_Difference {
+public class DiagonalDifference {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

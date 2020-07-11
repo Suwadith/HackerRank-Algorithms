@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Created by suwad on 6/13/2017.
  */
-public class Day_of_the_Programmer {
+public class DayOfTheProgrammer {
 
     static String solve(int year){
 

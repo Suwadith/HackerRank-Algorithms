@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Created by suwad on 6/9/2017.
  */
-public class Birthday_Cake_Candles {
+public class BirthdayCakeCandles {
 
     static int birthdayCakeCandles(int n, int[] ar) {
 

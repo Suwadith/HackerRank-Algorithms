@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * Created by Suwadith on 2/12/2017.
  */
-public class Designer_PDF_Viewer {
+public class DesignerPdfViewer {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

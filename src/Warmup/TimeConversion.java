@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Created by Suwadith on 2/17/2017.
  */
-public class Time_Conversion {
+public class TimeConversion {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

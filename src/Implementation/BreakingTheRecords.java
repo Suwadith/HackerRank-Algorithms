@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Created by suwad on 6/9/2017.
  */
-public class Breaking_the_Records {
+public class BreakingTheRecords {
 
     static int[] getRecord(int[] s){
 

@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * Created by Suwadith on 2/14/2017.
  */
-public class Apple_and_Orange {
+public class AppleAndOrange {
 
     public static void main(String[] args) {
 

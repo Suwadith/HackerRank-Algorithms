@@ -2,7 +2,7 @@ package Implementation;
 
 import java.util.Scanner;
 
-public class Drawing_Book {
+public class DrawingBook {
 
     static int solve(int n, int p){
 

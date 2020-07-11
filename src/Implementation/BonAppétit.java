@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Created by Suwadith on 2/17/2017.
  */
-public class Bon_Appétit {
+public class BonAppétit {
 
     static int bonAppetit(int n, int k, int b, int[] ar) {
 

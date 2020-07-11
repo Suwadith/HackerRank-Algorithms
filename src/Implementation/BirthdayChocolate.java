@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Created by suwad on 6/9/2017.
  */
-public class Birthday_Chocolate {
+public class BirthdayChocolate {
 
     static int solve(int n, int[] s, int d, int m){
 

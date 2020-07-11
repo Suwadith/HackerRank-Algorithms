@@ -1,6 +1,6 @@
 package Implementation;
 
-public class Counting_Valleys {
+public class CountingValleys {
 
     public static void main(String[] args){
 

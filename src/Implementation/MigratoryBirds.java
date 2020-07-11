@@ -6,7 +6,7 @@ import java.util.Scanner;
 /**
  * Created by suwad on 6/12/2017.
  */
-public class Migratory_Birds {
+public class MigratoryBirds {
 
     static int migratoryBirds(int n, int[] ar) {
 

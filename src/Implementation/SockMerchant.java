@@ -3,7 +3,7 @@ package Implementation;
 import java.util.HashSet;
 import java.util.Scanner;
 
-public class Sock_Merchant {
+public class SockMerchant {
 
     static int sockMerchant(int n, int[] ar) {
         HashSet<Integer> diffColors = new HashSet<>();

@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Created by Suwadith on 2/17/2017.
  */
-public class Solve_Me_First {
+public class SolveMeFirst {
 
     static int solveMeFirst(int a, int b) {
         return a+b;
